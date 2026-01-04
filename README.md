@@ -27,7 +27,7 @@
   <a href="https://portfolio-lix.vercel.app" target="_blank" title="portfolio-lix.vercel.app">
     <img alt="Website" src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://www.instagram.com/mlikmth/" target="_blank" title="@mlikmth">
+  <a href="https://www.instagram.com/abdlml1k_/" target="_blank" title="@abdlml1k_">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
   </a>
   <a href="https://github.com/Malixl" target="_blank" title="Malixl">
