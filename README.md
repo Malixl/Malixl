@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/abdul-malik-matoha-8aa454254/" target="_blank" title="Abdul Malik Matoha">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
   </a>
-  <a href="https://portfolio-lix.vercel.app" target="_blank" title="portfolio-lix.vercel.app">
+  <a href="https://lixportfolio.vercel.app/" target="_blank" title="portfolio-lix.vercel.app">
     <img alt="Website" src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" />
   </a>
   <a href="https://www.instagram.com/abdlml1k_/" target="_blank" title="@abdlml1k_">
